@@ -15,7 +15,7 @@
 
 ## Инструменты 🛠️
 - **Системы контроля версий:** Git, GitHub
-- **Среды разработки:** Visual Studio Code, PyCharm, Intellij IDEA
+- **Среды разработки:** Visual Studio Code, PyCharm, Intellij IDEA, PgAdmin 4
 - **Платформы развертывания:** Heroku, AWS, Google Cloud
 
 ## GitHub статистика 📈
@@ -25,14 +25,18 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| iitu.kz/Introduction to programming(C++)                        | 01/2022 - 05/2022 |
+| coursera.org/Python for Everybody                               | 09/2022 - 11/2022 |
+| coursera.org/Modern Robotics                                    | 11/2022 - 12/2022 |
+| iitu.kz/Database Design. Introduction to SQL                    | 09/2022 - 12/2022 |
+| iitu.kz/Algorithmization and Programming                        | 09/2022 - 12/2022 |
+| w3schools.com/Learn Python                                      | 11/2022 - 12/2023 |
+| w3schools.com/Pandas                                            | 01/2023 - 01/2023 |
+| w3schools.com/Matplotlib                                        | 01/2023 - 01/2023 |
+| w3schools.com/Numpy                                             | 01/2023 - 01/2023 |
+| w3schools.com/Learn Java                                        | 01/2023 - 03/2023 |
+| iitu.kz/Objected-Oriented Programming in Java                   | 01/2023 - 05/2023 |
+| iitu.kz/Introduction to Data Science                            | 05/2022 - xx/2023 |
 
 ## Мои проекты 🎯
 ### [Название проекта 1](ссылка на проект 1)
