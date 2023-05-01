@@ -6,7 +6,6 @@
 ## Соцсети 🌐
 - [LinkedIn](https://www.linkedin.com/in/aibek-shynazbek-69458723a/)
 - [Instagram](https://www.instagram.com/aakkuliyev/)
-- [Ваш блог или личный сайт](https://вашсайт.com)
 
 ## Технологии 💻
 - **Языки программирования:** Python, Java, C++
