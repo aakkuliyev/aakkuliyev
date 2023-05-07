@@ -1,24 +1,24 @@
-# Привет! 👋 Меня зовут Айбек!
+# Hello!👋 My name is Aibek!
 
-## Обо мне 📝
-Я начинающий разработчик. Я хочу начать свою карьеру в области разработки на Python, Java и готов применить свои знания и навыки на практике. В настоящее время я заканчиваю 2-й курс и уверен в своих знаниях Java и Python, которые я приобрел благодаря учебе в университете и дополнительным платформам. 
+## About me 📝
+I'm a beginner developer. I want to start my career in the field of development with Java, and I'm ready to apply my knowledge and skills in practice. Currently, I am finishing my second year of university and am confident in my Java language skills, which I have gained through my university studies and additional platforms.
 
-## Соцсети 🌐
+## Social Networks 🌐
 - [LinkedIn](https://www.linkedin.com/in/aibek-shynazbek-69458723a/)
 - [Instagram](https://www.instagram.com/aakkuliyev/)
 
-## Технологии 💻
-- **Языки программирования:** Python, Java, C++
-- **Базы данных:** MySQL, PostgreSQL
+## Technologies 💻
+- **Programming Languages:** Python, Java, C++
+- **Databases:** MySQL, PostgreSQL
 
-## Инструменты 🛠️
-- **Системы контроля версий:** Git, GitHub
-- **Среды разработки:** Visual Studio Code, PyCharm, Intellij IDEA, PgAdmin4, Jupyter.
+## Tools 🛠️
+- ** Version Control Systems:** Git, GitHub
+- ** Development Environments:** Visual Studio Code, PyCharm, Intellij IDEA, PgAdmin4, Jupyter.
 
-## GitHub статистика 📈
+## GitHub stats 📈
 ![Ваши GitHub статистика](https://github-readme-stats.vercel.app/api?username=aakkuliyev&show_icons=true&theme=radical)
 
-## 💻 Пройденные курсы:
+## 💻 Completed Course:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
