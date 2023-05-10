@@ -20,7 +20,7 @@ I'm a beginner developer. I want to start my career in the field of development 
 
 ## 💻 Completed Course:
 
-| Курсы                                                           | Дата              |
+| Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | iitu.kz/Introduction to programming(C++)                        | 01/2022 - 05/2022 |
 | coursera.org/Python for Everybody                               | 09/2022 - 11/2022 |
